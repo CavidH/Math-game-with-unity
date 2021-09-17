@@ -34,7 +34,7 @@ public class mainmenucontroller : MonoBehaviour
     }  
     public void onLeevelSelectButoon(int leveindex) {
         PlayerPrefs.SetInt("LevelIndex", leveindex);
-        SceneManager.LoadScene("GameplayConroller");
+        SceneManager.LoadScene("GameplayScene");
     }
 }
 
