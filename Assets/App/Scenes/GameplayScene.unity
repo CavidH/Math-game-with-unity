@@ -743,7 +743,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 961924679}
         m_TargetAssemblyTypeName: GameplayConroller, Assembly-CSharp
-        m_MethodName: onEnterButoon
+        m_MethodName: reloadmenubutoon
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
